@@ -1,0 +1,12 @@
+C:\Users\efsele6417\Documents\AddressExample\AddressExample\bin\Debug\AddressBook.mdf
+C:\Users\efsele6417\Documents\AddressExample\AddressExample\bin\Debug\AddressBook_log.ldf
+C:\Users\efsele6417\Documents\AddressExample\AddressExample\bin\Debug\AddressExample.dll.config
+C:\Users\efsele6417\Documents\AddressExample\AddressExample\bin\Debug\AddressExample.dll
+C:\Users\efsele6417\Documents\AddressExample\AddressExample\bin\Debug\AddressExample.pdb
+C:\Users\efsele6417\Documents\AddressExample\AddressExample\bin\Debug\EntityFramework.dll
+C:\Users\efsele6417\Documents\AddressExample\AddressExample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\efsele6417\Documents\AddressExample\AddressExample\bin\Debug\EntityFramework.xml
+C:\Users\efsele6417\Documents\AddressExample\AddressExample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\efsele6417\Documents\AddressExample\AddressExample\obj\Debug\AddressExample.csprojResolveAssemblyReference.cache
+C:\Users\efsele6417\Documents\AddressExample\AddressExample\obj\Debug\AddressExample.dll
+C:\Users\efsele6417\Documents\AddressExample\AddressExample\obj\Debug\AddressExample.pdb

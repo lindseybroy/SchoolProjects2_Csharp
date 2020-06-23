@@ -1,0 +1,10 @@
+C:\Users\Lindsey\Desktop\Roy_Calculator\Roy_Calculator\bin\Debug\Roy_Calculator.exe.config
+C:\Users\Lindsey\Desktop\Roy_Calculator\Roy_Calculator\bin\Debug\Roy_Calculator.exe
+C:\Users\Lindsey\Desktop\Roy_Calculator\Roy_Calculator\bin\Debug\Roy_Calculator.pdb
+C:\Users\Lindsey\Desktop\Roy_Calculator\Roy_Calculator\obj\Debug\Roy_Calculator.csprojAssemblyReference.cache
+C:\Users\Lindsey\Desktop\Roy_Calculator\Roy_Calculator\obj\Debug\Roy_Calculator.Properties.Resources.resources
+C:\Users\Lindsey\Desktop\Roy_Calculator\Roy_Calculator\obj\Debug\Roy_Calculator.csproj.GenerateResource.cache
+C:\Users\Lindsey\Desktop\Roy_Calculator\Roy_Calculator\obj\Debug\Roy_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Lindsey\Desktop\Roy_Calculator\Roy_Calculator\obj\Debug\Roy_Calculator.exe
+C:\Users\Lindsey\Desktop\Roy_Calculator\Roy_Calculator\obj\Debug\Roy_Calculator.pdb
+C:\Users\Lindsey\Desktop\Roy_Calculator\Roy_Calculator\obj\Debug\Roy_Calculator.Form1.resources
